@@ -19,7 +19,7 @@ $ git clone https://github.com/CharlotteBBK/RoomBook.git
 ## Technologies used
 
 ### Frontend
-HTML + CSS
+* HTML + CSS
 
 ### Backend
 * Java 8 - Main Backend Langauge
