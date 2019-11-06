@@ -13,7 +13,7 @@ roomBook allows students and faculty to book discussion rooms in the library. Th
 ### Install RoomBook
 
 ```
-$ git clone https://github.com/CharlotteBBK/RoomBook.git
+$ git clone https://github.com/CharlotteBBK/roomBook.git
 ```
 
 ## Technologies used
