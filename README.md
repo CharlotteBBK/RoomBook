@@ -16,12 +16,12 @@ roomBook allows students and faculty to book discussion rooms in the library. Th
 
 * Java SE Development Kit 8
 
-### Install RoomBook
+### Install roomBook
 
 ```
 $ git clone https://github.com/CharlotteBBK/roomBook.git
 ```
-### Run RoomBook
+### Run roomBook
 
 Open http://localhost:8080/BookingRoom-war/Home.jsp to view it in the browser.
 
