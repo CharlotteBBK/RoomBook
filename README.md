@@ -21,6 +21,9 @@ roomBook allows students and faculty to book discussion rooms in the library. Th
 ```
 $ git clone https://github.com/CharlotteBBK/roomBook.git
 ```
+### Run RoomBook
+
+Open http://localhost:8080/BookingRoom-war/Home.jsp to view it in the browser.
 
 ## Technologies used
 
